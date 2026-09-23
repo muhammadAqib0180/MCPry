@@ -39,3 +39,6 @@ htmlcov/
 
 # Temp clones
 .mcpry_temp/
+
+# Internal planning
+IMPLEMENTATION_PLAN.md
